@@ -1,0 +1,3 @@
+services:
+    Tarikmtk\AwsLoggerBundle\Service\Hello:
+        ~
